@@ -175,10 +175,10 @@ This project is licensed under the ISC License.
 ## 📞 Contact
 
 **Vikky Kumar**
-- GitHub: [@Vikky-Kumar-Nv](https://github.com/Vikky-Kumar-Nv)
-- Project: [DSkinova](https://github.com/Vikky-Kumar-Nv/Dskinova)
+- GitHub: [@YawarHussain672](https://github.com/YawarHussain672)
+- Project: [DSkinova](https://github.com/YawarHussain672/diakanova-main)
 
 ---
 
 ⭐ **Star this repository** if you found it helpful!</content>
-<parameter name="filePath">e:\ProgramingByVikky\skinova\README.md
+
