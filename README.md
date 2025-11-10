@@ -174,7 +174,7 @@ This project is licensed under the ISC License.
 
 ## 📞 Contact
 
-**Vikky Kumar**
+**Yawar Hussain**
 - GitHub: [@YawarHussain672](https://github.com/YawarHussain672)
 - Project: [DSkinova](https://github.com/YawarHussain672/diakanova-main)
 
