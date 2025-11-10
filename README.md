@@ -43,7 +43,7 @@ A modern, responsive skincare website built with React, featuring an admin dashb
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Vikky-Kumar-Nv/Dskinova.git
+   git clone https://github.com/YawarHussain672/Dskinova.git
    cd Dskinova
    ```
 
